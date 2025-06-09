@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/Sounds/654082__tosha73__the-dart-hits-the-target.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/Sounds/Hit_Sound.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/W7/CNZCC4Z6GJ3T99SPX8AZQY.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FO/TLMVL2GREQN1NDRUN8UJPF.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/F5/0FWVRECRJ0LT6NYM9GLPLM.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/samka/Documents/Unreal Projects/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Bullet.uasset"
+			]
+		}
+	]
+}
